@@ -80,7 +80,7 @@ Take full advantage of the 140+ premium plugins included with your WPMU DEV memb
 
 ## Usage
 
-For help with installing plugins please refer to our [Plugin installation guide.](https://premium.wpmudev.org/wpmu-manual/installing-regular-plugins-on-wpmu/)
+For help with installing plugins please refer to our [Plugin installation guide.](https://wpmudev.com/docs/using-wordpress/installing-wordpress-plugins/)
 
 Once installed login to your admin panel for WordPress or Multisite and activate the plugin:
 
